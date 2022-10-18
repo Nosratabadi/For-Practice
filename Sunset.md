@@ -13,4 +13,3 @@
 |Sweden|11.40|1.76|10285453|
 |Iceland|12.00|1.71|361313|
 
-|Country Name|Birth Rate|Fertility Rate|Population| |---|---|---|---| |Denmark|10.60|1.73|5,818,553| |Finland|8.60|1.41|5520314| |Norway|10.40|1.56|5347896| |Sweden|11.40|1.76|10285453| |Iceland|12.00|1.71|361313|
