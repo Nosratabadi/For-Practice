@@ -1,2 +1,6 @@
-# check Python version
-# !python -V
+#check Python version
+!python -V
+
+|A|B|
+|---|---|
+|c|d|
